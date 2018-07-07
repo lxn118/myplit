@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://down.aicheoo.com/xh512.png</string>
+					<string>http://down.aicheoo.com/ipaimg/xh512.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://down.aicheoo.com/xh57.png</string>
+					<string>http://down.aicheoo.com/ipaimg/xh57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
